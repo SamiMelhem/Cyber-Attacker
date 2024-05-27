@@ -14,7 +14,6 @@ The Cyber-Attacker project involves writing a sniffer and a spoofer program to p
 To set up the Cyber-Attacker project on your local system, follow these steps:
 
 ```bash
-Copy code
 git clone https://github.com/SamiMelhem/Cyber-Attacker.git
 cd Cyber-Attacker
 make
@@ -23,7 +22,6 @@ make
 Start the Docker environment and run the sniffer and spoofer programs:
 
 ```bash
-Copy code
 ./start_docker_environment.sh
 ./sniff
 ./spoof
